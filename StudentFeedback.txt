@@ -1,0 +1,10 @@
+Students - 
+
+1) Create a repo in your local GIT Desktop
+2) Create a branch - namewith your initials_javaselenium
+3) Select the local folder for the repo
+4) Goto the local folder
+5) Find the StudentFeedback form
+6) Add your initials and date and time and any feedback
+7) Goto the GIT Desktop
+8) Commit to your Branch

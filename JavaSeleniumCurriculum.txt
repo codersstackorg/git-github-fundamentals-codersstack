@@ -1,0 +1,18 @@
+Session1 - GIT Basics
+   Introduction to GIT
+   GITHub Desktop
+   GIT Repo/Branches
+   GIT Pull/Push
+Session2 - Java Basics
+   Introduction
+   Eclipse IDE Java Project
+   Starter programs
+   GIT Project Pull
+Session3 - Automation using Java Selenium
+   Introduction
+   Eclipse Java Selenium Project
+   Sample Web Application Automation
+   GIT Project
+Session4 - Agile Methodology
+   Agile Scrum
+   Jira/Agile tool 
